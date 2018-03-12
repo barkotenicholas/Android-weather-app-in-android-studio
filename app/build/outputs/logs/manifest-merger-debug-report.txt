@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:7:1-62
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:7:18-60
+application
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.nicholas.myweatherapp.MainActivity
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/AndroidStudioProjects/MyWeatherApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ff48bc453891d9cda6c5638b51665155/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5d8ba8e1848583c5dedff40bc1ddb6f3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c104189ab0407164f47c048bba7adc9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50c7d9812ab9e82f44c2cf20bfc906f8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/ede89859921fad9aecf81ea4cd436d2c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8f4664620ca6ff0916d6448a041b94dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/47e1dad7ae4fbe0f23c6de3724460568/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/43619bf2692dcc7b3f037f8b2cb4d654/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/be255a16c76410c78e57f16a633b0166/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b9ffcdd9115298e4d9f527adaacfe63/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8ca0f396842e001790900589eef26715/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6b045652efb3407b3388f98277127a4/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e03292e106b095e3168daf814ac270b3/AndroidManifest.xml:26:13-58

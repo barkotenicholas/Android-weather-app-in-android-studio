@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 12 19:17:46 EAT 2018
+0.baseType=DIRECTORY
+0.base=/home/nicholas/AndroidStudioProjects/MyWeatherApp/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
